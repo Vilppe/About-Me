@@ -1,5 +1,5 @@
 # About-Me
-###Who am I? What have I done? What am I doing? All things about me.
+**Who am I? What have I done? What am I doing? All things about me.**
 
 ## Here are some game-developing projects I've been a part of.
 
@@ -13,20 +13,21 @@
 		
 ![Aamusimulaattori image](https://github.com/Vilppe/About-Me/blob/master/Images/Aamusimulaattori.PNG)
 
-### My Random projects:
-		
+## My Random projects:
 	I've made some fun little minigames/apps with Unity3D. Most of the assets I've made myself with only a few exceptions. All of these are open source.
 		https://github.com/Vilppe/RandomProjects
 		
-	"Siili" was made, because I wanted to try out the path-finding with agents and tilesets.
-		(And because hedgehogs are cute, of course :3).
+### "Siili" was made, because I wanted to try out the path-finding with agents and tilesets.
+	(And because hedgehogs are cute, of course :3).
+			https://github.com/Vilppe/RandomProjects/blob/master/Siili.rar
 		
 ![Siili Image](https://github.com/Vilppe/About-Me/blob/master/Images/Siili.png)
 	
-	"Swing" is my personal project.
+### "Swing" is my personal project.
 		Because of a bug in Unity's path-finding itself, I abandoned this project for a while >:(. I think I'll finish it someday, hopefully, maybe, I hope...
 		The gameplay mechanic is quite unique, I've not seen this type of controlling in any other game.
 		I've planned to make this game available for several platforms, including the touch-input based ones.
+			https://github.com/Vilppe/RandomProjects/blob/master/Swing_Windows.rar
 		
 ![Swing Image](https://github.com/Vilppe/About-Me/blob/master/Images/RocketGuy.png)
 
