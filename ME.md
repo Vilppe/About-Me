@@ -35,3 +35,16 @@
 [Verovähennyslaskuri](https://www.sell.fi/elainlaakariliitto/jasenyys/jasenpalvelut-ja-edut/verovahennyslaskuri)
 	
 ![Verovähennyslaskuri Image](https://github.com/Vilppe/About-Me/blob/master/Images/Verovahennyslaskuri.PNG)
+
+
+
+## Here are some links to my profiles elsewhere.
+LinkedIn: [Vili Manninen - LinkedIn](https://www.linkedin.com/in/vili-manninen)
+
+Steam: [Vilppe - Steam](https://steamcommunity.com/id/vilppevilppe)
+
+RuneScape: [Vilppe - Highscores](http://services.runescape.com/m=hiscore/compare?user1=Vilppe)
+
+Discord Id: Vilppe#8344
+
+Spotify: [vili.manninen](https://open.spotify.com/user/vili.manninen?si=L1LaGBBzSwu6UysYp_OMGA)
