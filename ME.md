@@ -15,15 +15,16 @@
 	I've made some fun little minigames/apps with Unity3D. Most of the assets I've made myself with only a few exceptions. All of these are open source.
 [Random Projects](https://github.com/Vilppe/RandomProjects)
 		
-### "Siili" was made, because I wanted to try out the path-finding with agents and tilesets.
-	(And because hedgehogs are cute, of course :3).
+### "Siili"
+	was made, because I wanted to try out the path-finding with agents and tilesets. (And because hedgehogs are cute, of course :3).
 [Siili.rar](https://github.com/Vilppe/RandomProjects/blob/master/Siili.rar)
 		
 ![Siili Image](https://github.com/Vilppe/About-Me/blob/master/Images/Siili.png)
 	
-### "Swing" is my personal project.
-		Because of a bug in Unity's path-finding itself, I abandoned this project for a while >:(. I think I'll finish it someday, hopefully, maybe, I hope...
-		The gameplay mechanic is quite unique, I've not seen this type of controlling in any other game.
+### "Swing"
+		is my personal game development project. Because of a bug in Unity's path-finding itself, I abandoned this project for a while >:(.
+		I think I'll finish it someday, probably, maybe, I hope...
+		The gameplay mechanic is quite unique, I've not seen this type of controlling in other games.
 		I've planned to make this game available for several platforms, including the touch-input based ones.
 [Swing.rar](https://github.com/Vilppe/RandomProjects/blob/master/Swing_Windows.rar)
 		
