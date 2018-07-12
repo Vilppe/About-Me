@@ -1,7 +1,6 @@
 # About-Me
 ###Who am I? What have I done? What am I doing? All things about me.
 
-# Hello!
 ## Here are some game-developing projects I've been a part of.
 
 ### Aamusimulaattori:
@@ -31,9 +30,9 @@
 		
 		![Swing Image](https://github.com/Vilppe/About-Me/blob/master/Images/RocketGuy.png)
 
-### Up next is the other projects, most of which are NOT open-source.
+## Up next is the other projects, most of which are NOT open-source.
 	
-	Suomen Eläinlääkäriliiton verovähennyslaskuri or Finnish Veterinary Association's tax deduction calculator - Woah, that was a mouthful...
-		https://www.sell.fi/elainlaakariliitto/jasenyys/jasenpalvelut-ja-edut/verovahennyslaskuri
-		
-		![Verovähennyslaskuri Image](https://github.com/Vilppe/About-Me/blob/master/Images/Verovahennyslaskuri.PNG)
+### Suomen Eläinlääkäriliiton verovähennyslaskuri or Finnish Veterinary Association's tax deduction calculator - Woah, that was a mouthful...
+	https://www.sell.fi/elainlaakariliitto/jasenyys/jasenpalvelut-ja-edut/verovahennyslaskuri
+	
+	![Verovähennyslaskuri Image](https://github.com/Vilppe/About-Me/blob/master/Images/Verovahennyslaskuri.PNG)
