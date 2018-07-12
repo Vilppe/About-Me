@@ -11,7 +11,7 @@
 	We finished the project with two of my friends, Joa and Frans. We took our game to Assembly Summer 2017, the biggest LAN-party in Finland. Aamusimulaattori got 8th most votes in the competition.
 		https://github.com/Frans-L/Aamusimulaattori
 		
-		![Aamusimulaattori image](https://github.com/Vilppe/About-Me/blob/master/Images/Aamusimulaattori.PNG)
+![Aamusimulaattori image](https://github.com/Vilppe/About-Me/blob/master/Images/Aamusimulaattori.PNG)
 
 ### My Random projects:
 		
@@ -21,18 +21,19 @@
 	"Siili" was made, because I wanted to try out the path-finding with agents and tilesets.
 		(And because hedgehogs are cute, of course :3).
 		
-		![Siili Image](https://github.com/Vilppe/About-Me/blob/master/Images/Siili.png)
+![Siili Image](https://github.com/Vilppe/About-Me/blob/master/Images/Siili.png)
 	
 	"Swing" is my personal project.
 		Because of a bug in Unity's path-finding itself, I abandoned this project for a while >:(. I think I'll finish it someday, hopefully, maybe, I hope...
 		The gameplay mechanic is quite unique, I've not seen this type of controlling in any other game.
 		I've planned to make this game available for several platforms, including the touch-input based ones.
 		
-		![Swing Image](https://github.com/Vilppe/About-Me/blob/master/Images/RocketGuy.png)
+![Swing Image](https://github.com/Vilppe/About-Me/blob/master/Images/RocketGuy.png)
 
 ## Up next is the other projects, most of which are NOT open-source.
 	
-### Suomen Eläinlääkäriliiton verovähennyslaskuri or Finnish Veterinary Association's tax deduction calculator - Woah, that was a mouthful...
+### Suomen Eläinlääkäriliiton verovähennyslaskuri or Finnish Veterinary Association's tax deduction calculator
+##### Woah, that was a mouthful...
 	https://www.sell.fi/elainlaakariliitto/jasenyys/jasenpalvelut-ja-edut/verovahennyslaskuri
 	
-	![Verovähennyslaskuri Image](https://github.com/Vilppe/About-Me/blob/master/Images/Verovahennyslaskuri.PNG)
+![Verovähennyslaskuri Image](https://github.com/Vilppe/About-Me/blob/master/Images/Verovahennyslaskuri.PNG)
