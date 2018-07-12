@@ -14,7 +14,8 @@ Here are some game-developing projects I've been a part of.
 
 	My Random projects:
 		
-		I've made some fun little minigames apps with Unity3D. Most of the assets I've made myself with a few exceptions.
+		I've made some fun little minigames/apps with Unity3D. Most of the assets I've made myself with only a few exceptions. All of these are open source.
+			https://github.com/Vilppe/RandomProjects
 			
 		"Siili" was made, because I wanted to try out the path-finding with agents and tilesets.
 			(And because hedgehogs are cute, of course :3).
@@ -23,4 +24,8 @@ Here are some game-developing projects I've been a part of.
 			Because of a bug in Unity's path-finding itself, I abandoned this project for a while >:(. I think I'll finish it someday, hopefully, maybe, I hope...
 			The gameplay mechanic is quite unique, I've not seen this type of controlling in any other game.
 			I've planned to make this game available for several platforms, including the touch-input based ones.
-			
+	
+Up next is the other projects, most of which are NOT open-source.
+	
+	Suomen Eläinlääkäriliiton verovähennyslaskuri or Finnish Veterinary Association's tax deduction calculator - Woah, that was a mouthful...
+		https://www.sell.fi/elainlaakariliitto/jasenyys/jasenpalvelut-ja-edut/verovahennyslaskuri
