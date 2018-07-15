@@ -48,3 +48,5 @@ RuneScape: [Vilppe - Highscores](http://services.runescape.com/m=hiscore/compare
 Discord Id: Vilppe#8344
 
 Spotify: [vili.manninen](https://open.spotify.com/user/vili.manninen?si=L1LaGBBzSwu6UysYp_OMGA)
+
+Quora: [Vili Manninen - Quora](https://www.quora.com/profile/Vili-Manninen)
